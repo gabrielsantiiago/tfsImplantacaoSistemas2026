@@ -1,3 +1,9 @@
+
+## Aluno
+- **Nome:** [Gabriel Santiago de Andrade]
+- **RA:** [6324647]
+- **Curso:** Análise e Desenvolvimento de Sistemas
+
 # TechPro Informática - Website Institucional
 
 Projeto de website institucional para a TechPro Informática, uma loja de computadores e soluções em tecnologia.
